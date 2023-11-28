@@ -6,7 +6,7 @@ let howManyTasks = 0;
 let isImportant = false;
 
 let comment = "<p>You have nothing to do...</p>";
-let relax = '<img src="/img/relax.svg" height="70%" width="70%">';
+let relax = '<img src="img/relax.svg" height="70%" width="70%">';
 
 
 
